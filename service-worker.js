@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/maccimonto/precache-manifest.4a060d9a1ccd1ee9313ac015070d5578.js"
+  "/maccimonto/precache-manifest.eeb8cb89d4c59656ec1561a70657604e.js"
 );
 
 workbox.clientsClaim();
