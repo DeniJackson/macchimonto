@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/maccimonto/static/css/2.a15f3c52.chunk.css"
   },
   {
-    "revision": "e2539b29bcc08c88a2a99d960658c0f5",
+    "revision": "4509334d81b065ac98ff43602c9f8740",
     "url": "/maccimonto/index.html"
   }
 ];
